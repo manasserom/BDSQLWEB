@@ -1,0 +1,28 @@
+
+Problemática,diseño y construcción de la base de datos y muestra del Software web
+
+(leandro)
+Comienzo:
+Bienvenidos a nuestra presentación de Taller de Base de Datos de la Materia Sistemas de Datos integrados por....
+
+Para realizar este taller utilizamos, un paquete de software libre que consiste en un sistema de gestión de base de datos MYSQL y APACHE llamado xampp que actua como un servidor local como también IDE Visual Studio con el lenguaje C# apoyados en el marco de trabajo Bootstrap 4.3.
+
+La problemática presentada es la siguiente:
+ 
+Una Ferretería desea llevar un control sobre los movimientos financieros y materiales. Para ellos se decide emplear una base de datos que contenga toda la información sobre los Proveedores, vendedores, productos, ventas y compras.
+
+A continuación se detalla esta información:
+De cada Proveedor se tiene el nombre de la empresa y  C.U.I.T.
+De los Vendedores se tiene el nombre, apellido y el DNI.
+Por cada rubro se tiene el nombre que lo identifica.
+Cada producto tiene su nombre, cantidad, precio y el proveedor al cual es comprado y el rubro al que pertenece
+
+
+(martín)
+A continuación apoyados en la problemática les mostraremos el diseño y construcción de nuestra base datos:
+
+[Grafo y cardinalidades]
+[Diagráma general de la base de datos y campos claves]
+
+
+Software yo.
